@@ -1,0 +1,45 @@
+{
+    "player": [
+        "Stop Right There!",
+        "Thou I, The Traveller Shall Slay you...",
+        "Right Here, And Right now!",
+
+        "You Dare Challenge I, A Traveller?",
+        "Very Well, We shall Meet at The Graves",
+        "Of our Bodies!"
+    ],
+    "enemies": {
+        "bosses": {
+            "slime_king": [
+                // * First Phrase | Boss Fight
+                "*Evil Laughter* You have Fallen.",
+                "At the Face, Of the Almighty Slime King?",
+                "Thus, I Shall Slay You In A Quick Strike!",
+                "Wait A Second, Who are you?",
+
+                // * Second Phrase | Boss Fight
+                "How foolish, You? a Random Traveller?",
+                "Can beat a King like me? Impossible.",
+                "Let's See what you Got then."
+            ],
+            "bear": [
+                "Im not here to fight, They are.",
+                ""
+            ]
+        }
+    },
+
+    "npcs": {
+        "lumber_jack": [
+            // ? Once Only Message | On First Talk
+            "Oh Hey, Welcome to Our town!",
+
+            //
+            "Welcome To My Shop Dear Traveller!",
+            "Do you Perhaps Need Wood?",
+
+            "Oh Really? Then it will Cost You 10S!",
+            "Oh, Alright Then, See you Around!"
+        ]
+    }
+}

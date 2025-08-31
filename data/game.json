@@ -1,0 +1,31 @@
+{
+    "Game:Priority": [
+        {
+            "game:type": "camera",
+            "rotation": 0,
+            "zoom": 1
+        }
+    ],
+    "Game:Module": [
+        {
+            "module:id": "Leaf:ParticleEditor",
+            "module:type": "editor",
+            "version": "version:1-0-0"
+        }
+    ],
+    "Game:Tracks": [
+        "Adventure-Awaits.mp3",
+        "Time-of-Dawn.mp3",
+        "Unveiling-Forest.mp3",
+        "Stereo-Madness.mp3",
+        "Deep-Mines.mp3"
+    ],
+    "Game:Sfx": [
+        "effects/bash.wav",
+        "effects/dash.wav",
+        "effects/exp-gain.wav",
+        "effects/level-up.wav",
+        "effects/shroom.wav",
+        "effects/swing.wav"
+    ]
+}

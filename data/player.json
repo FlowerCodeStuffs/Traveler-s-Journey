@@ -1,0 +1,24 @@
+{
+    "info": {
+        "speed": 300,
+        "state": "State:"
+    },
+    "position": {
+        "x": 546.8991088867188,
+        "y": 419.466064453125
+    },
+    "velocity": {
+        "x": 0,
+        "y": 0
+    },
+    "hitbox": {
+        "radius": 10
+    },
+    "player:cursor": {
+        "position": [
+            973.0,
+            0.0
+        ],
+        "radius": 5
+    }
+}
